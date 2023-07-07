@@ -1,0 +1,26 @@
+<configs>
+	
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Chopping Board']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Wood Grill']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_KitchNaid']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Gas Oven']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Cold Smoker']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Brew Station']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Brew Cooker']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Fermentor Bench']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Chicken']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Cow']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Dairy Churn']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Farm Table']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Elk']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Farm Forge']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Horse']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Old Stone Well']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Pheasant']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Pig']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Rustic Smoker']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Sheep']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Turkey']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	<set xpath="/xui/ruleset[@name='default']/window_group[@name='workstation_Webber Grill']/window[@name='WARwindowCraftingQueue']/@name">windowCraftingQueue</set>
+	
+</configs>
